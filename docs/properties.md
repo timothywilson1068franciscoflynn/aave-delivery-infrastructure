@@ -95,3 +95,5 @@ On receiving side:
 - Must forward a message directly to receiver contract located in same chain as originator.
 - Used specifically on core network (Governance) as a fallback in case all voting networks are unreachable.
 - Used when a payload needs to be executed on the same chain as Governance, skipping bridging.
+
+<!-- Auto-update: 2025-10-11T13:40:14.896746 -->
